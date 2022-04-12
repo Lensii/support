@@ -1,3 +1,3 @@
 # support
 
-Email hello@pidgeon.app for any questions, concerns, feedback or issues.
+Email hello@lensify.io for any questions, concerns, feedback or issues.
